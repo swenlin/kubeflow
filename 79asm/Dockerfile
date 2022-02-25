@@ -1,0 +1,1 @@
+FROM gcr.io/gke-release/asm:1.4.10-asm.15
